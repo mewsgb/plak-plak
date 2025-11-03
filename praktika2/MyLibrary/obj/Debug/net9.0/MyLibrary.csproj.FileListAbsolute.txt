@@ -1,0 +1,11 @@
+C:\Users\Кристина\source\repos\praktika2\MyLibrary\bin\Debug\net9.0\MyLibrary.deps.json
+C:\Users\Кристина\source\repos\praktika2\MyLibrary\bin\Debug\net9.0\MyLibrary.dll
+C:\Users\Кристина\source\repos\praktika2\MyLibrary\bin\Debug\net9.0\MyLibrary.pdb
+C:\Users\Кристина\source\repos\praktika2\MyLibrary\obj\Debug\net9.0\MyLibrary.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Кристина\source\repos\praktika2\MyLibrary\obj\Debug\net9.0\MyLibrary.AssemblyInfoInputs.cache
+C:\Users\Кристина\source\repos\praktika2\MyLibrary\obj\Debug\net9.0\MyLibrary.AssemblyInfo.cs
+C:\Users\Кристина\source\repos\praktika2\MyLibrary\obj\Debug\net9.0\MyLibrary.csproj.CoreCompileInputs.cache
+C:\Users\Кристина\source\repos\praktika2\MyLibrary\obj\Debug\net9.0\MyLibrary.dll
+C:\Users\Кристина\source\repos\praktika2\MyLibrary\obj\Debug\net9.0\refint\MyLibrary.dll
+C:\Users\Кристина\source\repos\praktika2\MyLibrary\obj\Debug\net9.0\MyLibrary.pdb
+C:\Users\Кристина\source\repos\praktika2\MyLibrary\obj\Debug\net9.0\ref\MyLibrary.dll
