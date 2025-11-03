@@ -1,0 +1,14 @@
+C:\Users\Кристина\source\repos\praktika\praktika\obj\Debug\net9.0\praktika.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Кристина\source\repos\praktika\praktika\obj\Debug\net9.0\praktika.AssemblyInfoInputs.cache
+C:\Users\Кристина\source\repos\praktika\praktika\obj\Debug\net9.0\praktika.AssemblyInfo.cs
+C:\Users\Кристина\source\repos\praktika\praktika\obj\Debug\net9.0\praktika.csproj.CoreCompileInputs.cache
+C:\Users\Кристина\source\repos\praktika\praktika\bin\Debug\net9.0\praktika.exe
+C:\Users\Кристина\source\repos\praktika\praktika\bin\Debug\net9.0\praktika.deps.json
+C:\Users\Кристина\source\repos\praktika\praktika\bin\Debug\net9.0\praktika.runtimeconfig.json
+C:\Users\Кристина\source\repos\praktika\praktika\bin\Debug\net9.0\praktika.dll
+C:\Users\Кристина\source\repos\praktika\praktika\bin\Debug\net9.0\praktika.pdb
+C:\Users\Кристина\source\repos\praktika\praktika\obj\Debug\net9.0\praktika.dll
+C:\Users\Кристина\source\repos\praktika\praktika\obj\Debug\net9.0\refint\praktika.dll
+C:\Users\Кристина\source\repos\praktika\praktika\obj\Debug\net9.0\praktika.pdb
+C:\Users\Кристина\source\repos\praktika\praktika\obj\Debug\net9.0\praktika.genruntimeconfig.cache
+C:\Users\Кристина\source\repos\praktika\praktika\obj\Debug\net9.0\ref\praktika.dll
